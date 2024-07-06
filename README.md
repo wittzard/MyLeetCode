@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/wittzard/MyLeetCode/tree/master/0049-group-anagrams) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/wittzard/MyLeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/wittzard/MyLeetCode/tree/master/0049-group-anagrams) |
 | [0287-find-the-duplicate-number](https://github.com/wittzard/MyLeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -27,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/wittzard/MyLeetCode/tree/master/0287-find-the-duplicate-number) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/wittzard/MyLeetCode/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/wittzard/MyLeetCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
