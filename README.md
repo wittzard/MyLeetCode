@@ -37,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/wittzard/MyLeetCode/tree/master/0049-group-anagrams) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/wittzard/MyLeetCode/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
