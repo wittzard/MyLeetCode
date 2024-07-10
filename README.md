@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/wittzard/MyLeetCode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/wittzard/MyLeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/wittzard/MyLeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -33,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/wittzard/MyLeetCode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/wittzard/MyLeetCode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/wittzard/MyLeetCode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/wittzard/MyLeetCode/tree/master/0217-contains-duplicate) |
 ## Database
 |  |
 | ------- |
