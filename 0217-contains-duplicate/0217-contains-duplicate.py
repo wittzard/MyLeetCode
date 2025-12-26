@@ -1,10 +1,12 @@
+from collections import defaultdict
+
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        hash = set()
+        memo = defaultdict(int)
         for num in nums:
-            if num in hash:
+            if num in memo:
                 return True
             else:
-                hash.add(num)
+                memo[num] +=1
         return False
-        
+    
