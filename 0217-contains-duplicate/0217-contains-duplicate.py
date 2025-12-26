@@ -2,11 +2,11 @@ from collections import defaultdict
 
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        memo = defaultdict(int)
+        seen = set()
         for num in nums:
-            if num in memo:
+            if num in seen:
                 return True
             else:
-                memo[num] +=1
+                seen.add(num)
         return False
     
