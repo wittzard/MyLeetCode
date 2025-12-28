@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/wittzard/MyLeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/wittzard/MyLeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/wittzard/MyLeetCode/tree/master/0287-find-the-duplicate-number) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/wittzard/MyLeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/wittzard/MyLeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Two Pointers
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/wittzard/MyLeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/wittzard/MyLeetCode/tree/master/0217-contains-duplicate) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/wittzard/MyLeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/wittzard/MyLeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Sorting
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/wittzard/MyLeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/wittzard/MyLeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Math
 |  |
