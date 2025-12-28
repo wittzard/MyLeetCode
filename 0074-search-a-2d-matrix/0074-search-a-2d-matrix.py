@@ -1,5 +1,35 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
+        # สามารถ flatten ได้
+        m = len(matrix)
+        n = len(matrix[0])
+        t = m * n
+
+        l = 0 
+        r = t - 1
+        while l <= r:
+            mid = (l+r)//2
+            i = mid // n
+            j = mid % n
+
+            if matrix[i][j] > target:
+                r = mid - 1
+            elif matrix[i][j] < target:
+                l = mid + 1
+            else:
+                return True
+
+        return False
+
+
+
+
+
+
+
+
+
+"""     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
         nums_rows = len(matrix)
         nums_cols = len(matrix[0])
 
@@ -17,7 +47,7 @@ class Solution:
                     l = m + 1
                 else:
                     return True
-                    
-        return False
+
+        return False """
 
         
