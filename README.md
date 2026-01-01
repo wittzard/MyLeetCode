@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/wittzard/MyLeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/wittzard/MyLeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/wittzard/MyLeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0875-koko-eating-bananas](https://github.com/wittzard/MyLeetCode/tree/master/0875-koko-eating-bananas) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/wittzard/MyLeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/wittzard/MyLeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Two Pointers
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/wittzard/MyLeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/wittzard/MyLeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/wittzard/MyLeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0875-koko-eating-bananas](https://github.com/wittzard/MyLeetCode/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
