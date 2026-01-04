@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/wittzard/MyLeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/wittzard/MyLeetCode/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/wittzard/MyLeetCode/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/wittzard/MyLeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/wittzard/MyLeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/wittzard/MyLeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/wittzard/MyLeetCode/tree/master/0217-contains-duplicate) |
+| [0424-longest-repeating-character-replacement](https://github.com/wittzard/MyLeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/wittzard/MyLeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/wittzard/MyLeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Sorting
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/wittzard/MyLeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/wittzard/MyLeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/wittzard/MyLeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Math
