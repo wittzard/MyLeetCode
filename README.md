@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/wittzard/MyLeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/wittzard/MyLeetCode/tree/master/0049-group-anagrams) |
+| [0257-binary-tree-paths](https://github.com/wittzard/MyLeetCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/wittzard/MyLeetCode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/wittzard/MyLeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/wittzard/MyLeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -94,11 +95,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/wittzard/MyLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/wittzard/MyLeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/wittzard/MyLeetCode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/wittzard/MyLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/wittzard/MyLeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/wittzard/MyLeetCode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -109,4 +112,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/wittzard/MyLeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/wittzard/MyLeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/wittzard/MyLeetCode/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/wittzard/MyLeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
