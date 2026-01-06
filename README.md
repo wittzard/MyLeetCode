@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/wittzard/MyLeetCode/tree/master/0015-3sum) |
+| [0046-permutations](https://github.com/wittzard/MyLeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/wittzard/MyLeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/wittzard/MyLeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/wittzard/MyLeetCode/tree/master/0078-subsets) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/wittzard/MyLeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/wittzard/MyLeetCode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/wittzard/MyLeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
