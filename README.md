@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/wittzard/MyLeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/wittzard/MyLeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/wittzard/MyLeetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/wittzard/MyLeetCode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/wittzard/MyLeetCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/wittzard/MyLeetCode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/wittzard/MyLeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/wittzard/MyLeetCode/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/wittzard/MyLeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/wittzard/MyLeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/wittzard/MyLeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/wittzard/MyLeetCode/tree/master/0287-find-the-duplicate-number) |
