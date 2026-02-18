@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/wittzard/MyLeetCode/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/wittzard/MyLeetCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/wittzard/MyLeetCode/tree/master/0844-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/wittzard/MyLeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Array
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/wittzard/MyLeetCode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/wittzard/MyLeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/wittzard/MyLeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0739-daily-temperatures](https://github.com/wittzard/MyLeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/wittzard/MyLeetCode/tree/master/0875-koko-eating-bananas) |
 | [1200-minimum-absolute-difference](https://github.com/wittzard/MyLeetCode/tree/master/1200-minimum-absolute-difference) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/wittzard/MyLeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/wittzard/MyLeetCode/tree/master/0844-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/wittzard/MyLeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
