@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/wittzard/MyLeetCode/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/wittzard/MyLeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/wittzard/MyLeetCode/tree/master/0049-group-anagrams) |
+| [0063-unique-paths-ii](https://github.com/wittzard/MyLeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/wittzard/MyLeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/wittzard/MyLeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wittzard/MyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -105,12 +106,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/wittzard/MyLeetCode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wittzard/MyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/wittzard/MyLeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/wittzard/MyLeetCode/tree/master/0198-house-robber) |
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/wittzard/MyLeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/wittzard/MyLeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Tree
 |  |
