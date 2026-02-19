@@ -1,30 +1,32 @@
-import math 
-
+import math
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        # boundary of k is 1 <= k <= max(pile)
-        def feasible(k):
-            total_hours = 0
+        # search form min to max eating speed 
+        # choose first min that satisfy constraint
+        min_speed = 1
+        max_speed = max(piles)
+
+        def check(mid):
+            total_hours = 0 
             for pile in piles:
-                total_hours += (k+pile-1) // k # math notation for floor up
+                total_hours += math.ceil(pile / mid)
 
-            return total_hours <= h
+            if total_hours <= h:
+                return True
 
-        # use binary search to find first True 
-        l = 1
-        r = max(piles)
-        i = -1 
+            return False
+
+        # use binary search
+        l = min_speed
+        r = max_speed
+        k = -1 
         while l <= r:
-            k = (l+r)//2
-            if feasible(k):
-                i = k
-                r = k - 1
+            mid = (l+r)//2
+            if check(mid): # if true
+                k = mid
+                r = mid - 1
             else:
-                l = k + 1
+                l = mid + 1
         
-        return i
-
-
-
-
-        
+        return k
+            
