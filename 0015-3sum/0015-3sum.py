@@ -1,8 +1,9 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
+        # reduce nest loop by using two pointer
         nums.sort()
-        ans = []
         n = len(nums)
+        result = []
 
         for i in range(n-2):
             if nums[i] > 0:
@@ -13,15 +14,15 @@ class Solution:
             l = i+1
             r = n-1
             while l < r:
-                current_sum = nums[i] + nums[r] + nums[l]
-                if current_sum > 0:
-                    r -= 1
-                elif current_sum < 0:
+                current_sum = nums[i] + nums[l] + nums[r]
+                if current_sum < 0:
                     l += 1
+                elif current_sum > 0:
+                    r -= 1
                 else:
-                    ans.append([nums[i], nums[r], nums[l]])
-                    r -= 1
+                    result.append([nums[i], nums[l], nums[r]])
                     l += 1
+                    r -= 1
 
                     while l < r and nums[l] == nums[l-1]:
                         l += 1
@@ -29,11 +30,5 @@ class Solution:
                     while l < r and nums[r] == nums[r+1]:
                         r -= 1
 
-        return ans
+        return result
 
-
-
-
-
-
-        
